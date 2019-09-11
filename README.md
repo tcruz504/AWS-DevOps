@@ -1,2 +1,2 @@
 # AWS-DevOps
-AWS devops pipelines with Jenkins
+AWS devops pipelines using Jenkins and cloudformation to deploy a vpc stack
